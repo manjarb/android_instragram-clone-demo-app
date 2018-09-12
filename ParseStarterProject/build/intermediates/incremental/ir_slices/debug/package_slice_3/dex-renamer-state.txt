@@ -1,0 +1,4 @@
+#Thu Sep 13 01:55:55 HKT 2018
+base.0=/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
